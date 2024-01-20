@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliraah
 - 👀 I’m interested in Webapp Security
-- 🌱 Currently I’m trying to learn Python
+- 🌱 Currently I’m trying to teach myself how to automation stuff
 - 📫 You can reach me at 'aliraah@proton.me'
 
 <!---
