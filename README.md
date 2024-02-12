@@ -4,7 +4,7 @@
 - Finding bugs makes me really happy 🕷️
 - I also enjoy playing with Ptyhon 🐍
 - Currently I am tryint to develop my own automation framewrok 🤫
-- I'd like to test web applications for a living one day 🔥
+- I'd like to test web applications for a living 🔥
 
 ## Objective
 My journey in information & cyber security has led me to develop a passion for penetration testing. I am now eager to transition into this field, specifically aiming to be a pentester or a red teamer.
