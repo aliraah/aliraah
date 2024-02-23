@@ -25,6 +25,7 @@ My journey in information & cyber security has led me to develop a passion for p
 <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?logo=zap&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge"></a>
 
