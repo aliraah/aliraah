@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/alireza-rahimzadeh-467567298/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@aliraah"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"></a>
 <a href="https://discord.com/users/1174793048857772086"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+<a href="https://my-infosecblog.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=fff"></a>
 
 ## 🏹 OBJECTIVE  
 My journey in information & cyber security has led me to develop a passion for penetration testing. I am now eager to transition into this field, specifically aiming to be a pentester or a red teamer.
