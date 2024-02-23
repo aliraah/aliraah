@@ -42,33 +42,12 @@ Wordpress
 --->
 
 <!--- 
-https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square
-
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square
-
-https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge
-
-https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=flat-square
-
-https://img.shields.io/badge/OWASP-TOP%2010-000?logo=owasp&logoColor=fff&style=flat-square
-
-https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=for-the-badge
-
-https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=for-the-badge
+<a href="#"><img src="https://img.shields.io/badge/OWASP-Top10-red?style=for-the-badge&logo=OWASP"></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3f7bac?style=for-the-badge&logo=python&labelColor=fed949"></a>
+<a href="#"><img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=040404"></a>
+<a href="#"><img src="https://img.shields.io/badge/Mongo-DB-459a44?style=for-the-badge&logo=mongodb&labelColor=49474a"></a> 
+<a href="#"><img src="https://img.shields.io/badge/Kali-060a11?labelColor=3f7be8&style=for-the-badge&logo=kalilinux&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"></a>
 --->
 
 <!---
